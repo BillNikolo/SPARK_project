@@ -1,0 +1,5 @@
+Original size (train + val): ~18Gb
+
+.npy int: ~16Gb
+.npy float16: ~ 32Gb
+.npy float64: ~128Gb
